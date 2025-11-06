@@ -392,13 +392,11 @@ form input ,form textarea{
  }
  .copyright{
     font-size: 13px;
- }
+ } 
  #msg{
     color: #61b752;
     margin-top: -40px;
     display:block;
  }
- .header-text h1 {
-    font-size: 35px;
- }
+
  
